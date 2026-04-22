@@ -1563,7 +1563,7 @@ Te amo mt meu pinguinzinho🐧❤️ /p>
                 <img src="fotos.jpg" alt="Momento único" onerror="this.style.display='none'; this.parentNode.innerHTML='💖<br><small>Foto 5</small>';">
             </div>
             <div class="photo-frame">
-                <img src="img/Photos.jpg" alt="Para sempre" onerror="this.style.display='none'; this.parentNode.innerHTML='🥰<br><small>Foto 6</small>';">
+                <img src="photoss.jpg" alt="Para sempre" onerror="this.style.display='none'; this.parentNode.innerHTML='🥰<br><small>Foto 6</small>';">
             </div>
         </section>
 
