@@ -1507,7 +1507,7 @@ Te amo mt meu pinguinzinho🐧❤️ /p>
 
     <div class="container">
         <header class="header">
-            <h1>Para Minha <span class="girlfriend-name"></span></h1>
+            <h1>Pro meu momo❤️ <span class="girlfriend-name"></span></h1>
             <p>Uma declaração de amor criada especialmente para você ❤️</p>
         </header>
 
@@ -1516,7 +1516,8 @@ Te amo mt meu pinguinzinho🐧❤️ /p>
             <div class="love-message">
                 <p><span class="girlfriend-name"></span>, você é a razão do meu despertar feliz e o último pensamento antes de dormir. Desde que você chegou na minha vida, cada dia se tornou mais colorido, mais doce, mais completo.</p>
                 <br>
-                <p> Amor, eu só queria te lembrar o quanto vc é especial pra mim ❤️
+                <p> 
+Amor, eu só queria te lembrar o quanto vc é especial pra mim ❤️
 
 Às vezes eu paro pra pensar em tudo que a gente já viveu e percebo o quanto sou feliz por ter vc na minha vida. Não é só sobre os momentos bons, mas tbm sobre tudo que a gente enfrenta junto… pq no fim, é sempre vc q eu quero ao meu lado.
 
@@ -1547,19 +1548,19 @@ Te amo mt meu pinguinzinho🐧❤️ /p>
 
         <section class="photo-gallery">
             <div class="photo-frame">
-                <img src="img.5.jpg" alt="Nossa primeira foto juntos" onerror="this.style.display='none'; this.parentNode.innerHTML='📸<br><small>Foto 1</small>';">
+                <img src="5.jpg" alt="Nossa primeira foto juntos" onerror="this.style.display='none'; this.parentNode.innerHTML='📸<br><small>Foto 1</small>';">
             </div>
             <div class="photo-frame">
-                <img src="img/_Photos.jpg" alt="Momento especial" onerror="this.style.display='none'; this.parentNode.innerHTML='💕<br><small>Foto 2</small>';">
+                <img src="ma.jpg" alt="Momento especial" onerror="this.style.display='none'; this.parentNode.innerHTML='💕<br><small>Foto 2</small>';">
             </div>
             <div class="photo-frame">
-                <img src="img/KmPhotos.jpg" alt="Lembrança querida" onerror="this.style.display='none'; this.parentNode.innerHTML='🌹<br><small>Foto 3</small>';">
+                <img src="mkhotos.jpg" alt="Lembrança querida" onerror="this.style.display='none'; this.parentNode.innerHTML='🌹<br><small>Foto 3</small>';">
             </div>
             <div class="photo-frame">
-                <img src="img/maPhotos.jpg" alt="Nosso amor" onerror="this.style.display='none'; this.parentNode.innerHTML='✨<br><small>Foto 4</small>';">
+                <img src="mphotos.jpg" alt="Nosso amor" onerror="this.style.display='none'; this.parentNode.innerHTML='✨<br><small>Foto 4</small>';">
             </div>
             <div class="photo-frame">
-                <img src="img/PMhotos.jpg" alt="Momento único" onerror="this.style.display='none'; this.parentNode.innerHTML='💖<br><small>Foto 5</small>';">
+                <img src="fotos.jpg" alt="Momento único" onerror="this.style.display='none'; this.parentNode.innerHTML='💖<br><small>Foto 5</small>';">
             </div>
             <div class="photo-frame">
                 <img src="img/Photos.jpg" alt="Para sempre" onerror="this.style.display='none'; this.parentNode.innerHTML='🥰<br><small>Foto 6</small>';">
